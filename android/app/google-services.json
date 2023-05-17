@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1049717436884",
+    "project_id": "inoicain-travel",
+    "storage_bucket": "inoicain-travel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049717436884:android:fcdd12ffb135a6c8862641",
+        "android_client_info": {
+          "package_name": "com.hernan.inoicain_app_travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049717436884-nd6jt9chapmc3rf53bbi4imcctn8ka3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvJ4QRKwiTBg93o4S4-PWTxHB08Lo42AI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049717436884-nd6jt9chapmc3rf53bbi4imcctn8ka3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
